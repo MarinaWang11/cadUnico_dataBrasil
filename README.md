@@ -16,7 +16,7 @@ O projeto foi desenvolvido em **Python** utilizando as seguintes bibliotecas[cit
    ```bash
    git clone [https://github.com/MarinaWang11/cadUnico_dataBrasil.git](https://github.com/MarinaWang11/cadUnico_dataBrasil.git)
 
-```
+   ```
 
 2. Certifique-se de ter o Python e o Java (JDK) instalados, e crie um ambiente virtual com o Conda:
 
